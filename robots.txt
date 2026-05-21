@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://konforty.com/sitemap.xml
